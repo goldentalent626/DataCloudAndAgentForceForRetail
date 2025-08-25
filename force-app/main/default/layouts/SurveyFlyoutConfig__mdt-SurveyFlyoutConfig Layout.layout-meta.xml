@@ -38,6 +38,10 @@
                 <behavior>Edit</behavior>
                 <field>returnLabelVFPageUrl__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Recall_Product_Table_Name__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
